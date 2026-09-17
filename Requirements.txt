@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+requests
+apscheduler
+python-multipart
